@@ -7,7 +7,7 @@ We are Skill Nation, and we are gamers at heart. We use our skills to create uni
 We are developing a gaming platform where gamers can create and grow meaningful connections and engage in competitive gameplay across a library of curated games.
 
 Hiring:<br>
--[Lead React Native developer](https://www.linkedin.com/jobs/view/3198691982)<br><br><br>
+-[Lead React Native developer](https://www.linkedin.com/jobs/view/3198691982)<br><br>
 
 
 
