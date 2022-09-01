@@ -2,7 +2,14 @@
 
 ### Delivering larger than life gaming experiences
 
-At Skill Nation we share a love for gaming. We are using our talent to provide gamers with a unique and engaging mobile experience that bolsters the perception and enjoyment of mobile games through competition, self-expression, and inclusion. We are doing so by creating a mobile hub where gamers can meet up to compete and grow skills, as they explore new challenges across a range of curated games, events, and modes.
+We are Skill Nation, and we are gamers at heart. We use our skills to create unique experiences, evolving mobile gaming through new and exciting tech.
+
+We are developing a gaming platform where gamers can create and grow meaningful connections and engage in competitive gameplay across a library of curated games.
+
+Hiring:<br>
+-[Lead React Native developer](https://www.linkedin.com/jobs/view/3198691982)<br><br><br>
 
 
-**Skill Nation** - [Website](https://skillnation.nl) | [Twitter](https://twitter.com/skillnationHQ) | [LinkedIn](https://www.linkedin.com/company/skillnation/) 
+
+**Skill Nation**<br>
+[Website](https://skillnation.nl) | [Twitter](https://twitter.com/skillnationHQ) | [LinkedIn](https://www.linkedin.com/company/skillnation/) 
